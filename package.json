@@ -1,6 +1,6 @@
 {
   "name": "cra-template-ready",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "keywords": [
     "react",
     "create-react-app",
@@ -11,17 +11,19 @@
   "author": "Reece Dunham <me@rdil.rocks> (https://rdil.rocks)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RDIL/cra-template-ready.git"
+    "url": "https://github.com/rdilweb/cra-template-ready.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=8"
   },
   "bugs": {
-    "url": "https://github.com/RDIL/cra-template-ready/issues"
+    "url": "https://github.com/rdilweb/cra-template-ready/issues",
+    "email": "me@rdil.rocks"
   },
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "homepage": "https://github.com/rdilweb/cra-template-ready/"
 }
